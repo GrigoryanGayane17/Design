@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slider{
+    height: 400px;
+    margin:auto;
+    width: 90%;
+    z-index: -1;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+
+.slide-track{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    width: calc(500px * 6);
+    animation: scroll 5s linear infinite;
+}
+.slide{
+    height: 400px;
+    width: 500px;
+    align-items: center;
+    padding: 15px;
+}
+
+@keyframes scroll {
+    0%{
+        transform:translateX(0);
+    }
+    100%{
+        transform:translateX(calc(-250px * 3));
+    }
+}
