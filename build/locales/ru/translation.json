@@ -1,0 +1,51 @@
+{
+  "home": {
+    "section1": {
+      "titleMain": "Агентство по разработке дизайн решений...",
+      "aboutTitle": "О нас",
+      "aboutText1": "Динамичное цифровое агентство, стремящемся улучшить пользовательский опыт с помощью новейших технологий, обеспечивая инновационные и эффективные решения. Quix™️ — это динамичное цифровое агентство, стремящиеся улучшить пользовательский опыт.",
+      "aboutText2": "Quix™️ — это динамичное цифровое агентство, стремящиеся улучшить пользовательский опыт с помощью новейших технологий."
+    },
+    "section2": {
+      "titleMain": "Наши услуги",
+      "fitures": [
+        {
+          "title": "Бренд-стратегия",
+          "keyWords": {
+            "first": "Дизайн логотипа",
+            "second": "Креативное направление",
+            "third": "Разработка айдентики"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Дизайны продуктов",
+          "keyWords": {
+            "first": "Дизайн-система",
+            "second": "Дизайн пользовательского интерфейса",
+            "third": "Прототипирование"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Разработка",
+          "keyWords": {
+            "first": "Веб-сайт",
+            "second": "Лендинг",
+            "third": "Веб-приложение"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Моушн-дизайн",
+          "keyWords": {
+            "first": "Анимация логотипа",
+            "second": "2D и 3D анимация",
+            "third": "Моушн графика"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        }
+      ]
+    }
+  }
+}
