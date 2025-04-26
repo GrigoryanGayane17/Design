@@ -1,0 +1,51 @@
+{
+  "home": {
+    "section1": {
+      "titleMain": "Մենք դիզայն լուծուման թիմ ենք...",
+      "aboutTitle": "Մենք",
+      "aboutText1": "Դինամիկ թվային գործակալություն, որը նպատակ ունի բարելավել օգտատիրոջ փորձը՝ կիրառելով տեխնոլոգիական վերջին առաջընթացները՝ ապահովելով նորարարական և ազդեցիկ լուծումներ։ Quix™️-ը դինամիկ թվային գործակալություն է, որը նպատակ ունի բարելավել օգտատիրոջ փորձը։",
+      "aboutText2": "Quix™️-ը դինամիկ թվային գործակալություն է, որը նպատակ ունի բարելավել օգտատիրոջ փորձը՝ կիրառելով տեխնոլոգիական վերջին առաջընթացները։"
+    },
+    "section2": {
+      "titleMain": "Առաջարկ",
+      "fitures": [
+        {
+          "title": "Բրենդի ռազմավար",
+          "keyWords": {
+            "first": "Լոգոյի դիզայն",
+            "second": "Ստեղծագործ ուղղություն",
+            "third": "Ինքնության ձևավորում"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Product-ի դիզայն",
+          "keyWords": {
+            "first": "Դիզայն համակարգ",
+            "second": "Ինտերֆեյսի դիզայն",
+            "third": "Պրոտոտիպավորում"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Ծրագրավորում",
+          "keyWords": {
+            "first": "Վեբ կայք",
+            "second": "Լենդինգ էջ",
+            "third": "Վեբ հավելված"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Շարժական դիզայն",
+          "keyWords": {
+            "first": "Լոգոյի անիմացիա",
+            "second": "2D և 3D անիմացիա",
+            "third": "Շարժապատկերներ"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        }
+      ]
+    }
+  }
+}

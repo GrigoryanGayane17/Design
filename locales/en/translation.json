@@ -1,0 +1,51 @@
+{
+  "home": {
+    "section1": {
+      "titleMain": "We’re creative design solution agency...",
+      "aboutTitle": "About Us",
+      "aboutText1": "A dynamic digital agency committed to enhancing user experiences by leveraging the latest advancements in technology, ensuring innovative and impactful solutions. Quix™️ is a dynamic digital agency committed to enhancing user experiences",
+      "aboutText2": "Quix™️ is a dynamic digital agency committed to enhancing user experiences by leveraging the latest advancements in technology."
+    },
+    "section2": {
+      "titleMain": "Our services",
+      "fitures": [
+        {
+          "title": "Brand Strategy",
+          "keyWords": {
+            "first": "Logo design",
+            "second": "Creative direction",
+            "third": "Identity design"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Product Design",
+          "keyWords": {
+            "first": "Design system",
+            "second": "User Interface design",
+            "third": "Prototyping"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Development",
+          "keyWords": {
+            "first": "Website",
+            "second": "Landing page",
+            "third": "Web app"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "title": "Motion Design",
+          "keyWords": {
+            "first": "Logo Animation",
+            "second": "2D & 3D Animation",
+            "third": "Web app"
+          },
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        }
+      ]
+    }
+  }
+}
