@@ -2,6 +2,7 @@ import Header from '../components/Header.jsx'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import {useTranslation} from "react-i18next";
+import Footer from "../components/Footer.jsx";
 
 
 export default function Home() {
@@ -163,6 +164,8 @@ export default function Home() {
                 </div>
 
             </section>
+
+            <Footer/>
         </div>
     );
 }

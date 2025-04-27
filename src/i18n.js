@@ -12,8 +12,8 @@ i18n.use(Backend) // Use the HTTP backend to load translations
             escapeValue: false, // React already escapes values
         },
         backend: {
-            loadPath: '/locales/{{lng}}/{{ns}}.json',
-        },
+            loadPath: '/Design/locales/{{lng}}/{{ns}}.json'
+        }
     });
 
 export default i18n;

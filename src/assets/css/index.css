@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.slider{
+.slider {
     height: 400px;
-    margin:auto;
+    margin: auto;
     width: 90%;
     z-index: -1;
     display: grid;
@@ -12,14 +12,15 @@
     overflow: hidden;
 }
 
-.slide-track{
+.slide-track {
     margin-top: 50px;
     margin-bottom: 50px;
     display: flex;
     width: calc(500px * 6);
     animation: scroll 5s linear infinite;
 }
-.slide{
+
+.slide {
     height: 400px;
     width: 500px;
     align-items: center;
@@ -27,10 +28,18 @@
 }
 
 @keyframes scroll {
-    0%{
-        transform:translateX(0);
+    0% {
+        transform: translateX(0);
     }
-    100%{
-        transform:translateX(calc(-250px * 3));
+    100% {
+        transform: translateX(calc(-250px * 3));
     }
+}
+
+.footer-input {
+    outline: none;
+    padding: 20px 0;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    width: 100%;
 }
