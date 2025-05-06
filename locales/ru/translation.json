@@ -1,4 +1,13 @@
 {
+  "header": {
+    "home": "Главная",
+    "projects": "Проекты",
+    "services": "Услуги",
+    "about": "О нас",
+    "blog": "Блог",
+    "shop": "Магазин",
+    "contactUs": "Свяжитесь с нами"
+  },
   "home": {
     "section1": {
       "titleMain": "Агентство по разработке дизайн решений...",
@@ -48,6 +57,7 @@
       ]
     }
   },
+  "projectsTitle": "Нашн работы",
 
   "projects": [
     {
@@ -364,6 +374,16 @@
         "href": "/contact",
         "cname": "border-t border-b md:hidden lg:hidden font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
       }
-    ]
+    ],
+    "inputPanel": {
+      "title1": "Свяжитесь с нами",
+      "title2": "Отправьте сообщение о вашем проекте",
+      "name": "Имя",
+      "namePlaceholder": "Введите ваше имя",
+      "email": "Эл. почта",
+      "emailPlaceholder": "Введите вашу эл. почту",
+      "yourMessage": "Ваше сообщение",
+      "yourMessagePlaceholder": "Введите ваше сообщение"
+    }
   }
 }

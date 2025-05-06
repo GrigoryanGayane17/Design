@@ -1,4 +1,13 @@
 {
+  "header": {
+    "home": "Գլխավոր",
+    "projects": "Նախագծեր",
+    "services": "Ծառայություններ",
+    "about": "Մեր մասին",
+    "blog": "Բլոգ",
+    "shop": "Խանութ",
+    "contactUs": "Կապ մեզ հետ"
+  },
   "home": {
     "section1": {
       "titleMain": "Մենք դիզայն լուծուման թիմ ենք...",
@@ -48,7 +57,7 @@
       ]
     }
   },
-
+  "projectsTitle": "Մեր Աշխատանքները",
   "projects": [
     {
       "id": 1,
@@ -356,6 +365,16 @@
         "href": "/contact",
         "cname": "border-t border-b md:hidden lg:hidden font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
       }
-    ]
+    ],
+    "inputPanel": {
+      "title1": "Կապ մեզ հետ",
+      "title2": "Ուղարկեք SMS ձեր նախագծի մասին",
+      "name": "Անուն",
+      "namePlaceholder": "Մուտքագրեք ձեր անունը",
+      "email": "Էլ. փոստ",
+      "emailPlaceholder": "Մուտքագրեք ձեր էլ. փոստը",
+      "yourMessage": "Ձեր հաղորդագրությունը",
+      "yourMessagePlaceholder": "Մուտքագրեք ձեր հաղորդագրությունը"
+    }
   }
 }
