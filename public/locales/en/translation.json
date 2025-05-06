@@ -1,4 +1,13 @@
 {
+  "header": {
+    "home": "Home",
+    "projects": "Projects",
+    "services": "Services",
+    "about": "About",
+    "blog": "Blog",
+    "shop": "Shop",
+    "contactUs": "Contact Us"
+  },
   "home": {
     "section1": {
       "titleMain": "We’re creative design solution agency...",
@@ -48,6 +57,7 @@
       ]
     }
   },
+  "projectsTitle": "Our Projects",
   "projects": [
     {
       "id": 1,
@@ -101,7 +111,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 3,
       "idTitle": "Web design",
@@ -128,7 +137,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 4,
       "idTitle": "Web app",
@@ -155,7 +163,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 5,
       "idTitle": "App design",
@@ -182,7 +189,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 6,
       "idTitle": "App design",
@@ -209,7 +215,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 7,
       "idTitle": "Web app",
@@ -236,7 +241,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 8,
       "idTitle": "Web design",
@@ -263,7 +267,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 9,
       "idTitle": "Dashboard",
@@ -290,7 +293,6 @@
         "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
       }
     },
-
     {
       "id": 10,
       "idTitle": "Dashboard",
@@ -362,6 +364,16 @@
         "href": "/contact",
         "cname": "border-t border-b md:hidden lg:hidden font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
       }
-    ]
+    ],
+    "inputPanel": {
+      "title1": "Contact Us",
+      "title2": "Send a Line About Your Project",
+      "name": "Name",
+      "namePlaceholder": "Enter Your Name",
+      "email": "Email",
+      "emailPlaceholder": "Enter Your Email",
+      "yourMessage": "Your Message",
+      "yourMessagePlaceholder": "Enter Your Message"
+    }
   }
 }

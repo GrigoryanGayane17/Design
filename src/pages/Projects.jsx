@@ -1,11 +1,13 @@
 import React, {useState} from "react";
 import {useTranslation} from "react-i18next";
 import {Link} from "react-router-dom";
+import ChangeLanguage from "../components/ChangeLanguage.jsx";
 
 export default function Projects() {
     const {t} = useTranslation();
     const [val, setVal] = useState("All projects");
     const Projects = t("projects", {returnObjects: true}) || [];
+    const ProjectsTitle = t("projectsTitle", {returnObjects: true}) || [];
 
     const buttons = [
         "All projects",
@@ -24,7 +26,7 @@ export default function Projects() {
     return (
         <div className="p-[50px]">
             <h1 className="mt-5 mb-5 text-[50px] sm:text-[70px] md:text-[100px] lg:text-[90px] leading-[70px] sm:leading-[30px] md:leading-[100px] lg:leading-[150px] font-bold animate-fadeInUp max-450:text-center">
-                Our Projects
+                {ProjectsTitle}
             </h1>
 
             <div data-aos="fade-up" className="flex flex-wrap mt-5 max-450:justify-center">
@@ -70,6 +72,8 @@ export default function Projects() {
                     </Link>
                 ))}
             </div>
+
+            <ChangeLanguage/>
         </div>
     );
 }

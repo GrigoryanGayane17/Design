@@ -21,29 +21,29 @@ function ProjectSingle(props) {
                 <div data-aos="fade-up" className={'lg:w-[50%]'}>
                     <h1 className={'text-[40px]  font-bold mb-5 '}>{item.aboutProject.title}</h1>
                     <div>
-                        <p className={'text-gray-500 text-[20px] mr-[50px]'}>{item.aboutProject.description1}</p>
-                        <p className={'text-gray-500 text-[20px] mr-[50px] mt-5'}>{item.aboutProject.description2}</p>
+                        <p className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px] mr-[50px]'}>{item.aboutProject.description1}</p>
+                        <p className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px] mr-[50px] mt-5'}>{item.aboutProject.description2}</p>
                     </div>
                 </div>
                 <div data-aos="fade-up" className={'lg:w-[50%]'}>
                     <div className={'flex flex-wrap lg:justify-start md:justify-center sm:justify-center'}>
-                        <div className={'m-[30px]'}>
+                        <div data-aos="fade-up" className={'m-[30px]'}>
                             <h4 className={'font-normal text-[20px]'}>Project Name</h4>
                             <p className={'font-normal text-gray-400 text-[18px]'}>Arcane Software</p>
                         </div>
-                        <div className={'m-[30px]'}>
+                        <div data-aos="fade-up" className={'m-[30px]'}>
                             <h4 className={'font-normal text-[20px]'}>Headquarters</h4>
                             <p className={'font-normal text-gray-400 text-[18px]'}>New York,US</p>
                         </div>
-                        <div className={'m-[30px]'}>
+                        <div data-aos="fade-up" className={'m-[30px]'}>
                             <h4 className={'font-normal text-[20px]'}>Industry</h4>
                             <p className={'font-normal text-gray-400 text-[18px]'}>Software developers</p>
                         </div>
-                        <div className={'m-[30px]'}>
+                        <div data-aos="fade-up" className={'m-[30px]'}>
                             <h4 className={'font-normal text-[20px]'}>Company Size</h4>
                             <p className={'font-normal text-gray-400 text-[18px]'}>50+ employers</p>
                         </div>
-                        <div className={'m-[30px]'}>
+                        <div data-aos="fade-up" className={'m-[30px]'}>
                             <h4 className={'font-normal text-[20px]'}>Timeline</h4>
                             <p className={'font-normal text-gray-400 text-[18px]'}>6 Months</p>
                         </div>
@@ -52,27 +52,31 @@ function ProjectSingle(props) {
             </div>
 
             <div className={'mt-[50px]'}>
-                <img className={'w-[100%] h-[100vh] object-cover'} src={item.images.imageMain}/>
+                <img data-aos="fade-zoom-in"
+                     data-aos-easing="ease-in-back"
+                     data-aos-delay="600"
+                     data-aos-offset="0"
+                     className={'w-[100%] h-[100vh] object-cover'} src={item.images.imageMain}/>
             </div>
 
             <div className={'mb-[50px]'}>
-                <h1 className={'text-[40px]  font-bold mb-5 mt-5 '}>{item.problems.title}</h1>
-                <p className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px] mt-5 mb-5 mr-[50px]'}>{item.problems.description1}</p>
-                <p className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px]mt-5 mr-[50px]'}>{item.problems.description2}</p>
+                <h1 data-aos="fade-up" className={'text-[40px]  font-bold mb-5 mt-5 '}>{item.problems.title}</h1>
+                <p data-aos="fade-up" className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px] mt-5 mb-5 mr-[50px]'}>{item.problems.description1}</p>
+                <p data-aos="fade-up" className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px]mt-5 mr-[50px]'}>{item.problems.description2}</p>
             </div>
 
             <div className={'flex justify-between'}>
-                <img className={'w-[49%] object-cover'} src={item.images.image1}/>
-                <img className={'w-[49%] object-cover'} src={item.images.image2}/>
+                <img data-aos="fade-up" className={'w-[49%] object-cover'} src={item.images.image1}/>
+                <img data-aos="fade-up" className={'w-[49%] object-cover'} src={item.images.image2}/>
             </div>
 
             <div className={'mb-[50px]'}>
-                <h1 className={'text-[40px]  font-bold mb-5 mt-5 '}>{item.solutions.title}</h1>
-                <p className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px] mt-5 mb-5 mr-[50px]'}>{item.solutions.description1}</p>
-                <p className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px]mt-5 mr-[50px]'}>{item.solutions.description2}</p>
+                <h1 data-aos="fade-up" className={'text-[40px]  font-bold mb-5 mt-5 '}>{item.solutions.title}</h1>
+                <p data-aos="fade-up" className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px] mt-5 mb-5 mr-[50px]'}>{item.solutions.description1}</p>
+                <p data-aos="fade-up" className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px]mt-5 mr-[50px]'}>{item.solutions.description2}</p>
             </div>
 
-            <h1 className={'text-[40px]  font-bold mb-5 mt-5 '}>Similar Works</h1>
+            <h1 data-aos="fade-up" className={'text-[40px]  font-bold mb-5 mt-5 '}>Similar Works</h1>
 
            <div className={'flex flex-wrap justify-center'}>
                <div className="flex m-1 flex-wrap justify-around">
