@@ -47,5 +47,321 @@
         }
       ]
     }
+  },
+  "projects": [
+    {
+      "id": 1,
+      "idTitle": "Branding",
+      "titleMain": "Vortex",
+      "title": "Branding ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d2d95264e97b9ff8bfe3_image.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+    {
+      "id": 2,
+      "idTitle": "Branding",
+      "titleMain": "Cloudy",
+      "title": "Branding ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3be263512a4b04da4ec_image-1.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 3,
+      "idTitle": "Web design",
+      "titleMain": "CashCrest",
+      "title": "Web design ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3d35fc6fe252cdf133f_image-2.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 4,
+      "idTitle": "Web app",
+      "titleMain": "Cartora",
+      "title": "Web design ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3e6d70740540157582a_Group.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 5,
+      "idTitle": "App design",
+      "titleMain": "Brandly",
+      "title": "App design ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3fadf606fc0f1bf9c95_image-3.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 6,
+      "idTitle": "App design",
+      "titleMain": "SavorHub",
+      "title": "App design ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d4125e3e8587e371e9f1_image-4.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 7,
+      "idTitle": "Web app",
+      "titleMain": "Learnovia",
+      "title": "Web app ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d42c4d303233240c6c41_image-6.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 8,
+      "idTitle": "Web design",
+      "titleMain": "DesignNest",
+      "title": "Web app ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d426e5fd7c486845c2de_image-5.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 9,
+      "idTitle": "Dashboard",
+      "titleMain": "OmniSphere",
+      "title": "Dashboard ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d44fbad890e17d97ded4_Modern%20Artistic%20Chair.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    },
+
+    {
+      "id": 10,
+      "idTitle": "Dashboard",
+      "titleMain": "GlobeTrek",
+      "title": "Dashboard ~ Website ~ Development",
+      "images": {
+        "imageMain": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d4622c08d63cb9b382a3_image-7.webp",
+        "image1": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d35701e777568d0b5d4c_image.webp",
+        "image2": "https://cdn.prod.website-files.com/6765d2351b9c09fbe21656f0/6765d3a25fc6fe252cdef37f_image-1.webp"
+      },
+      "aboutProject": {
+        "title": "About Project",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      },
+      "problems": {
+        "title": "Problems",
+        "description1": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part.",
+        "description2": "Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant."
+      },
+      "solutions": {
+        "title": "Solutions",
+        "description1": "This ever her, bread in shine. Coast the of have impasse. They report concept the we of packed, place service. Well commas, with instead divine devoting afforded of willingly the with somewhere, all her is will. My arduous least need writers, and actual to slightly held raised to be them with morning even handpainted, small ask it like…. Spot. The as be the all can thousand we yourself to searching.",
+        "description2": "For she word weather. Hall necessary got exerted to would copy suppliers, was to live box tone the threw the a in headline each entrance the outfits text is toys had making it anyone project himself self-interest. The officers. At before a have could he would in a it target. A found beings are case dressed have of expand not, phase out up leave to not thinks variety the in continues assistant might can a and offer, name the part."
+      }
+    }
+  ],
+  "footer": {
+    "Main": [
+      {
+        "title": "Home",
+        "href": "/",
+        "cname": "border-t font-medium w-full flex justify-center p-2.5 mt-3 md:border-none md:p-0 md:mt-0 md:w-auto"
+      },
+      {
+        "title": "About",
+        "href": "/about",
+        "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+      },
+      {
+        "title": "Projects",
+        "href": "/projects",
+        "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+      },
+      {
+        "title": "Project Single",
+        "href": "/projectSingle",
+        "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+      }
+    ],
+    "Others": [
+      {
+        "title": "Services",
+        "href": "/services",
+        "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+      },
+      {
+        "title": "Blog",
+        "href": "/blog",
+        "cname": "border-t border-b font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+      },
+      {
+        "title": "Blog Single",
+        "href": "/blogSingle",
+        "cname": "border-t border-b md:hidden lg:hidden font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact",
+        "cname": "border-t border-b md:hidden lg:hidden font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+      }
+    ]
   }
 }
