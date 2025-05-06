@@ -8,6 +8,8 @@ export default {
       screens: {
         'max-1410': { 'raw': '(max-width: 1410px)' },
         'max-1060': { 'raw': '(max-width: 1060px)' },
+        'max-1519': { 'raw': '(max-width: 1519px)' },
+        'max-450': { 'raw': '(max-width: 450px)' },
       },
       animation: {
         fadeInUp: 'fadeInUp 1.5s ease-out',

@@ -1,8 +1,16 @@
 import React from 'react';
-import {FooterData} from "../FooterData.jsx";
 import {Link} from "react-router-dom";
+import {useTranslation} from "react-i18next";
+
+
 
 function Footer(props) {
+    const {t, i18n} = useTranslation();
+
+    const FooterMain = t("footer.Main", {returnObjects: true}) || [];
+    const FooterOthers = t("footer.Others", {returnObjects: true}) || [];
+
+
     return (
         <div className="flex flex-col-reverse md:flex-col-reverse lg:flex-row flex-wrap justify-between ms-5 mr-5">
             <div className={'ms-5'}>
@@ -12,7 +20,7 @@ function Footer(props) {
                 <div className={'flex mt-[50px] mb-[50px] sm:justify-center'}>
                     <div className={'mr-[100px]'}>
                         <p className={'text-gray-500 font-medium'}>Main</p>
-                        {FooterData.Main.map((link) => (
+                        {FooterMain.map((link) => (
                             <div className={'mt-5 mb-5 font-medium'}>
                                 <Link
                                     className="header-links"
@@ -41,7 +49,7 @@ function Footer(props) {
 
                     <div>
                         <p className={'text-gray-500 font-medium'}>Others</p>
-                        {FooterData.Others.map((link) => (
+                        {FooterOthers.map((link) => (
                             <div className={'mt-5 mb-5 font-medium'}>
                                 <Link
                                     className="header-links"

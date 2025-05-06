@@ -3,27 +3,18 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import {useTranslation} from "react-i18next";
 import Footer from "../components/Footer.jsx";
+import ChangeLanguage from "../components/ChangeLanguage.jsx";
 
 
 export default function Home() {
-    const {t, i18n} = useTranslation();
-    const changeLanguage = (lng) => {
-        i18n.changeLanguage(lng);
-    };
+    const {t} = useTranslation();
 
     const Services = t("home.section2.fitures", {returnObjects: true}) || [];
     console.log(Services)
 
-
-    const flags = {
-        "en": "https://cdn-icons-png.freepik.com/512/13481/13481822.png?uid=R179250677&ga=GA1.1.836210414.1706299071",
-        "ru": "https://cdn-icons-png.freepik.com/512/16150/16150266.png?uid=R179250677&ga=GA1.1.836210414.1706299071",
-        "am": "https://cdn-icons-png.freepik.com/512/299/299840.png?uid=R179250677&ga=GA1.1.836210414.1706299071"
-    }
-
     return (
         <div>
-            <Header/>
+            <ChangeLanguage/>
             <section className={'home-section1 p-5'}>
                 <div className="w-full lg:h-[70vh] sm:h-[30vh] md:h-[50vh] flex items-center">
                     <div className="flex flex-wrap">
@@ -118,19 +109,6 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-
-                <div
-                    className="fixed bottom-[2vw] right-[4vh] flex p-1 bg-[#000] rounded-[5px] hidden sm:block xs:block">
-                    <img onClick={() => changeLanguage('en')}
-                         className={'w-[48px] rounded-[15px] h-[48px] m-1 cursor-pointer hover:shadow-[0px_0px_15px_#ffffff] duration-300'}
-                         src={flags.en}/>
-                    <img onClick={() => changeLanguage('ru')}
-                         className={'w-[48px] rounded-[15px] h-[48px] m-1 cursor-pointer hover:shadow-[0px_0px_15px_#ffffff] duration-300'}
-                         src={flags.ru}/>
-                    <img onClick={() => changeLanguage('am')}
-                         className={'w-[48px] rounded-[15px] h-[48px] m-1 cursor-pointer hover:shadow-[0px_0px_15px_#ffffff] duration-300'}
-                         src={flags.am}/>
-                </div>
             </section>
 
             <section className={'home-section2 p-5 max-1060:text-center'}>
@@ -165,7 +143,6 @@ export default function Home() {
 
             </section>
 
-            <Footer/>
         </div>
     );
 }

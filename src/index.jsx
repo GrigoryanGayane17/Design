@@ -21,7 +21,6 @@ const Loader = () => {
             </div>
         </div>
     </div>
-
 }
 
 createRoot(document.getElementById('root')).render(
