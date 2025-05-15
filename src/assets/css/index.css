@@ -39,7 +39,15 @@
 .footer-input {
     outline: none;
     padding: 20px 0;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #aba4a4;
     margin-bottom: 20px;
+    width: 100%;
+}
+.footer-button{
+    background-color: black;
+    color:white;
+    font-size: 15px;
+    font-weight: 500;
+    padding:10px 30px;
     width: 100%;
 }

@@ -3,9 +3,8 @@ import {Link} from "react-router-dom";
 import {useTranslation} from "react-i18next";
 
 
-
 function Footer(props) {
-    const {t, i18n} = useTranslation();
+    const {t} = useTranslation();
 
     const FooterMain = t("footer.Main", {returnObjects: true}) || [];
     const FooterOthers = t("footer.Others", {returnObjects: true}) || [];
@@ -13,7 +12,7 @@ function Footer(props) {
 
 
     return (
-        <div className="flex flex-col-reverse md:flex-col-reverse lg:flex-row flex-wrap justify-between ms-5 mr-5">
+        <div className="flex flex-col-reverse md:flex-col-reverse lg:flex-row flex-wrap lg:justify-between md:justify-center sm:justify-center ms-5 mr-5">
             <div className={'ms-5'}>
                 <h1 className="mt-5 text-[50px] sm:text-center sm:text-[70px] md:text-[100px] lg:text-[90px] leading-[70px] sm:leading-[30px] md:leading-[100px] lg:leading-[150px] font-bold animate-fadeInUp">
                     {inputPanel.title1}
@@ -79,16 +78,28 @@ function Footer(props) {
                 </div>
             </div>
             <div className={'mr-5'}>
-                <h1 className={'font-bold text-[30px] mb-5 sm:text-center'}>{inputPanel.title2}</h1>
+                <h1 className={'font-bold text-4xl mb-5 lg:text-left md:text-center sm:text-center'}>{inputPanel.title2}</h1>
                 <div>
-                    <p className={'font-medium'}>{inputPanel.name}</p>
+                    <p className={'font-normal'}>{inputPanel.name}</p>
                     <input className={'footer-input'} type={'text'} placeholder={inputPanel.namePlaceholder}/>
 
-                    <p className={'font-medium'}>{inputPanel.email}</p>
+                    <p className={'font-normal'}>{inputPanel.email}</p>
                     <input className={'footer-input'} type={'text'} placeholder={inputPanel.emailPlaceholder}/>
 
-                    <p className={'font-medium'}>{inputPanel.yourMessage}</p>
-                    <input className={'footer-input'} type={'text'} placeholder={inputPanel.yourMessagePlaceholder}/>
+                    <p className={'font-normal'}>{inputPanel.yourMessage}</p>
+                    <input className={'footer-input mb-5'} type={'text'}
+                           placeholder={inputPanel.yourMessagePlaceholder}/>
+                    <button className={'mt-5  footer-button flex justify-center items-center'}>
+                        <span>
+                            Send Message
+                        </span>
+                        <span className={'ms-5'}>
+                            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                                 fill="#fff">
+                                <path d="m560-240-56-58 142-142H160v-80h486L504-662l56-58 240 240-240 240Z"/>
+                            </svg>
+                        </span>
+                    </button>
                 </div>
             </div>
         </div>

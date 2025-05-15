@@ -76,17 +76,15 @@ function ProjectSingle(props) {
                 <p data-aos="fade-up" className={'text-gray-500 sm:text-[15px] lg:text-[20px] md:text-[20px]mt-5 mr-[50px]'}>{item.solutions.description2}</p>
             </div>
 
-            <h1 data-aos="fade-up" className={'text-[40px]  font-bold mb-5 mt-5 '}>Similar Works</h1>
-
            <div className={'flex flex-wrap justify-center'}>
-               <div className="flex m-1 flex-wrap justify-around">
-                   <Link data-aos="fade-up" name={Projects[0].titleMain} state={{item}} to={`/projectSingle/${Projects[0].id}`}>
+               <h1 data-aos="fade-up" className={'text-[40px]  font-bold mb-5 mt-5 '}>Similar Works</h1>
+               <div className="flex m-1 flex-wrap justify-between">
+                   <Link className={'w-[49%]'} data-aos="fade-up" name={Projects[0].titleMain} state={{item}} to={`/projectSingle/${Projects[0].id}`}>
                        <div className="group mb-5 cursor-pointer" >
-
                            <div
                                className="relative flex justify-center items-center overflow-hidden w-[690px] max-1519:w-[100%] max-1519:h-[390px] h-[490px] ">
                                <img
-                                   className="w-[690px] h-[490px] max-450:h-[450px] bg-center bg-cover max-1519:w-[100%] max-1519:h-[390px] object-cover  hover:scale-105 transition-transform duration-300"
+                                   className="w-[100%] h-[490px] max-450:h-[450px] bg-center bg-cover max-1519:w-[100%] max-1519:h-[390px] object-cover  hover:scale-105 transition-transform duration-300"
                                    src={Projects[0].images.imageMain}
                                    alt="project"
                                />
@@ -101,6 +99,30 @@ function ProjectSingle(props) {
                            <div>
                                <h1 className={'font-bold text-xl mt-5'}>{Projects[0].titleMain}</h1>
                                <p className={' text-gray-500'}>{Projects[0].title}</p>
+                           </div>
+                       </div>
+                   </Link>
+
+                   <Link className={'w-[49%]'} data-aos="fade-up" name={Projects[1].titleMain} state={{item}} to={`/projectSingle/${Projects[1].id}`}>
+                       <div className="group mb-5 cursor-pointer" >
+                           <div
+                               className="relative flex justify-center items-center overflow-hidden w-[690px] max-1519:w-[100%] max-1519:h-[390px] h-[490px] ">
+                               <img
+                                   className="w-[100%] h-[490px] max-450:h-[450px] bg-center bg-cover max-1519:w-[100%] max-1519:h-[390px] object-cover  hover:scale-105 transition-transform duration-300"
+                                   src={Projects[1].images.imageMain}
+                                   alt="project"
+                               />
+                               <div
+                                   className="w-[100px] h-[100px] rounded-full bg-white absolute z-[100] flex justify-center items-center hidden group-hover:flex  transition-opacity duration-300">
+                                   <svg xmlns="http://www.w3.org/2000/svg" height="38px" viewBox="0 -960 960 960"
+                                        width="38px" fill="#000000">
+                                       <path d="m256-240-56-56 384-384H240v-80h480v480h-80v-344L256-240Z"/>
+                                   </svg>
+                               </div>
+                           </div>
+                           <div>
+                               <h1 className={'font-bold text-xl mt-5'}>{Projects[1].titleMain}</h1>
+                               <p className={' text-gray-500'}>{Projects[1].title}</p>
                            </div>
                        </div>
                    </Link>
