@@ -1,13 +1,41 @@
 {
-  "header": {
-    "home": "Главная",
-    "projects": "Проекты",
-    "services": "Услуги",
-    "about": "О нас",
-    "blog": "Блог",
-    "shop": "Магазин",
-    "contactUs": "Свяжитесь с нами"
-  },
+  "header": [
+    {
+      "title": "Главная",
+      "href": "/",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 mt-3 md:border-none md:p-0 md:mt-0 md:w-auto"
+    },
+    {
+      "title": "Проекты",
+      "href": "/projects",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Услуги",
+      "href": "/services",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "О нас",
+      "href": "/about",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Блог",
+      "href": "/blog",
+      "cname": "border-t border-b font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Магазин",
+      "href": "/shop",
+      "cname": "border-t border-b font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Свяжитесь с нами",
+      "href": "/contact",
+      "cname": "border-t border-b md:hidden lg:hidden font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    }
+  ],
   "home": {
     "section1": {
       "titleMain": "Агентство по разработке дизайн решений...",
@@ -55,10 +83,72 @@
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
         }
       ]
-    }
+    },
+    "section3": {
+      "titleMain": "Последние работы"
+    },
+    "section4MainTitle": "Почему выбрат нас?",
+    "section4": [
+      {
+        "id": 1,
+        "titleNum": "/01",
+        "titleMain": "Креативные идеи",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      },
+      {
+        "id": 2,
+        "titleNum": "/02",
+        "titleMain": "Эксперт в инструментах",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      },
+      {
+        "id": 3,
+        "titleNum": "/03",
+        "titleMain": "Пиксельный и точный дизайн",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      },
+      {
+        "id": 4,
+        "titleNum": "/04",
+        "titleMain": "Чистый и минималистичный дизайн",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      }
+    ],
+    "section5": [
+      {
+        "id": 1,
+        "num": "12",
+        "description": "Лет опыта"
+      },
+      {
+        "id": 2,
+        "num": "60+",
+        "description": "Завершённых проектов"
+      },
+      {
+        "id": 3,
+        "num": "08",
+        "description": "Награды"
+      },
+      {
+        "id": 4,
+        "num": "98%",
+        "description": "Довольные клиенты"
+      },
+      {
+        "id": 5,
+        "num": "14+",
+        "description": "Обслуживаемые отрасли"
+      },
+      {
+        "id": 6,
+        "num": "8M+",
+        "description": "Средства, привлечённые для клиентов"
+      }
+    ]
   },
-  "projectsTitle": "Нашн работы",
 
+  "projectsTitle": "Нашн работы",
   "projects": [
     {
       "id": 1,
@@ -376,8 +466,8 @@
       }
     ],
     "inputPanel": {
-      "title1": "Свяжитесь с нами",
-      "title2": "Отправьте сообщение о вашем проекте",
+      "title1": "На связи",
+      "title2": "Отправьте SMS о вашем проекте",
       "name": "Имя",
       "namePlaceholder": "Введите ваше имя",
       "email": "Эл. почта",

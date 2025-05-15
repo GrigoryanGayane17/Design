@@ -1,13 +1,41 @@
 {
-  "header": {
-    "home": "Գլխավոր",
-    "projects": "Նախագծեր",
-    "services": "Ծառայություններ",
-    "about": "Մեր մասին",
-    "blog": "Բլոգ",
-    "shop": "Խանութ",
-    "contactUs": "Կապ մեզ հետ"
-  },
+  "header": [
+    {
+      "title": "Սկիզբ",
+      "href": "/",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 mt-3 md:border-none md:p-0 md:mt-0 md:w-auto"
+    },
+    {
+      "title": "Պրոեկտներ",
+      "href": "/projects",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Սերվիզներ",
+      "href": "/services",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Մեր մասին",
+      "href": "/about",
+      "cname": "border-t font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Բլոգ",
+      "href": "/blog",
+      "cname": "border-t border-b font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Մարկետ",
+      "href": "/shop",
+      "cname": "border-t border-b font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    },
+    {
+      "title": "Կապ",
+      "href": "/contact",
+      "cname": "border-t border-b md:hidden lg:hidden font-medium w-full flex justify-center p-2.5 md:border-none md:p-0 md:w-auto"
+    }
+  ],
   "home": {
     "section1": {
       "titleMain": "Մենք դիզայն լուծուման թիմ ենք...",
@@ -55,7 +83,71 @@
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
         }
       ]
-    }
+    },
+
+    "section3": {
+      "titleMain": "Վերջին պրոեկտներ"
+    },
+    "section4MainTitle": "Ինչու՞ ընտրել մեզ",
+    "section4": [
+      {
+        "id": 1,
+        "titleNum": "/01",
+        "titleMain": "Ստեղծագործ գաղափարներ",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      },
+      {
+        "id": 2,
+        "titleNum": "/02",
+        "titleMain": "Գործիքների փորձագետ",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      },
+      {
+        "id": 3,
+        "titleNum": "/03",
+        "titleMain": "Մանրամասն և ճշգրիտ դիզայն",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      },
+      {
+        "id": 4,
+        "titleNum": "/04",
+        "titleMain": "Մաքուր և մինիմալ դիզայն",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      }
+    ],
+
+    "section5": [
+      {
+        "id": 1,
+        "num": "12",
+        "description": "Տարեկան փորձ"
+      },
+      {
+        "id": 2,
+        "num": "60+",
+        "description": "Ավարտված նախագծեր"
+      },
+      {
+        "id": 3,
+        "num": "08",
+        "description": "Մրցանակներ"
+      },
+      {
+        "id": 4,
+        "num": "98%",
+        "description": "Բավարարված հաճախորդներ"
+      },
+      {
+        "id": 5,
+        "num": "14+",
+        "description": "Սպասարկված ոլորտներ"
+      },
+      {
+        "id": 6,
+        "num": "8M+",
+        "description": "Հավաքագրված միջոցներ"
+      }
+    ]
   },
   "projectsTitle": "Մեր Աշխատանքները",
   "projects": [
@@ -320,7 +412,6 @@
       }
     }
   ],
-
   "footer": {
     "Main": [
       {
@@ -368,7 +459,7 @@
     ],
     "inputPanel": {
       "title1": "Կապ մեզ հետ",
-      "title2": "Ուղարկեք SMS ձեր նախագծի մասին",
+      "title2": "Ուղարկեք SMS նախագծի մասին",
       "name": "Անուն",
       "namePlaceholder": "Մուտքագրեք ձեր անունը",
       "email": "Էլ. փոստ",
